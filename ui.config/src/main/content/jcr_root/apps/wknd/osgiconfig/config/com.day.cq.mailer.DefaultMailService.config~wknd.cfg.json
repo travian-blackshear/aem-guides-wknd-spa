@@ -1,0 +1,12 @@
+{
+  "smtp.host": "smtp.gmail.com",
+  "smtp.user": "travianblackshear@gmail.com",
+  "smtp.password": "triggaman09!",
+  "smtp.port": 587,
+  "from.address": "noreply@wknd.com",
+  "smtp.ssl": false,
+  "smtp.starttls": true,
+  "smtp.requiretls": true,
+  "debug.email": false,
+  "oauth.flow": true
+}
